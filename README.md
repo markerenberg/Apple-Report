@@ -1,5 +1,5 @@
 # Apple-Stock-Projection-Files
-This repository contains all R code that was used in the creation of the Apple Stock Projection Report, and a final copy of the report itself.
+This repository contains the R code and data source used in the creation of the Apple Stock Projection Report, and a final copy of the report itself.
 The following is a brief synopsis of the report:
 
 -- Objective:
