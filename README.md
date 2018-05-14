@@ -16,7 +16,7 @@ respectively .
 In the end, model diagnostics revealed that a linear regresison model that included the price, historic price, volatility index, and 
 commodity index variables was the best fitted model to predict the return of Apple stock.
 
--- Authors -- 
+-- Authors: 
 This report is an academic report that was created for the University of Waterloo. All published content is the propery of its original authors,
 as denoted in the report itself.
 
