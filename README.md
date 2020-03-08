@@ -20,5 +20,5 @@ commodity index variables was the best fitted model to predict the return of App
 This report is an academic report that was created for the University of Waterloo. All published content is the propery of its original authors,
 as denoted in the report itself.
 
-For any questions or inquiries, I can be reached at mkerenbe@uwaterloo.ca. 
+For any questions or inquiries, I can be reached at markkerenberg@gmail.com. 
 
